@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "region selection", "region selection\region selection.rptproj", "{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Debug|Default.ActiveCfg = Debug
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Debug|Default.Build.0 = Debug
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Debug|Default.Deploy.0 = Debug
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.DebugLocal|Default.Build.0 = DebugLocal
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Release|Default.ActiveCfg = Release
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Release|Default.Build.0 = Release
+		{32022CE2-DAB5-4F27-AA09-8CCD7BB4633D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70632942-8653-4688-AE83-FBC39155AC10}
+	EndGlobalSection
+EndGlobal
